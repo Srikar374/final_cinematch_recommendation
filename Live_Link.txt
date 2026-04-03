@@ -1,3 +1,3 @@
 LIVE LINK:
 
-https://srikar374.github.io/cinematch_recommendation_system/
+https://srikar374.github.io/final_cinematch_recommendation/
